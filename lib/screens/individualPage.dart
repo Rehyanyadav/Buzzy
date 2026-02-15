@@ -171,6 +171,7 @@ class _IndividualpageState extends State<Individualpage> {
                                       onPressed: () {},
                                       icon: Icon(Icons.camera_alt),
                                     ),
+                                    //rehyan yadav
                                   ],
                                 ),
                                 contentPadding: EdgeInsets.all(5),
